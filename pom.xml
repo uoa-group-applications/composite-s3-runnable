@@ -9,7 +9,7 @@
 
   <groupId>nz.ac.auckland.composite</groupId>
   <artifactId>composite-s3-runnable</artifactId>
-  <version>5.2</version>
+  <version>5.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>composite-s3-runnable</name>
@@ -35,8 +35,4 @@
 	  </dependency>
 
   </dependencies>
-
-  <scm>
-    <tag>composite-s3-runnable-5.2</tag>
-  </scm>
 </project>
